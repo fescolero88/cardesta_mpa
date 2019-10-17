@@ -1,0 +1,19 @@
+@import "bootstrap/css/bootstrap.min.css";
+//@import "css/owl.carousel.css";
+//@import "css/owl.theme.css";
+@import "css/style.css";
+@import "css/left-sidepanel.css";
+@import "web-fontawsome/css/fontawesome-all.css";
+
+[v-cloak] {display: none}
+.browse_by_make,.browse_by_type{
+    height: 200px;
+    overflow-y: hidden;
+}
+
+a.aabutton,.browse_by_type a.aabutton{
+    width: 150px;
+    margin: 20px auto;
+    font-size: 10px;
+    padding: 8px;
+}
