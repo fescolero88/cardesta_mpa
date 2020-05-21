@@ -1,0 +1,24 @@
+.form-body{min-height: 590px;
+    display: inline-block;
+    width: 100%;}
+
+.mar-zero{margin:0px;}
+
+.dealer-details{
+    height: 35px;
+    font-size: 19px;
+}
+
+.link{
+    color:black;
+}
+
+.left-space{
+    padding-left: 35px;
+}
+
+.list-group.marketcheck-inventory-list {
+	height: 800px;
+	overflow: scroll;
+	position: relative;
+}
